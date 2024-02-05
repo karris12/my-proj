@@ -1,2 +1,6 @@
 Hello fred
+<<<<<<< HEAD
 u are running late 
+=======
+i love veggies
+>>>>>>> ff13c26c1782e8923aa907bb2c6c90d52676853f
